@@ -10,17 +10,16 @@ body h1{
     font-family: Impact, Charcoal, sans-serif;
 }
 
-.layouts img{
-    border-radius: 2%;
-    box-shadow: 5px 5px 14px -2px #595959;
-    height: 150px;
-}
-
-.layouts h3{
+.cvs{
     font-family: Impact, Charcoal, sans-serif;
 }
 
-.layouts a{
+.cvs a{
     text-decoration: none;
     color: black;
+}
+
+#escolhacv{
+    border: 1px solid black;
+    border-radius: 2%;
 }
